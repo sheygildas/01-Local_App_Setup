@@ -8,7 +8,7 @@
 - [Problem that this project solves ](#question-problem-that-this-project-solves)
 - [Solution to the problem.](#key-solution-to-the-problem)
 - [Tools and Technologies](#hammer-tools-and-technologies)
-- [Architecture of this project](#beginner-architecture-of-this-project)
+- [Architecture of this project](#house-architecture-of-this-project)
 - [Steps to Execute the project](#zap-steps-to-execute-the-project)
   - [Setup tools ](#electric_plug-setup-tools )
   - [Clone source code](#package-slone-source-code)
@@ -50,7 +50,7 @@
 </div>
 <br/>
 
-## :beginner: Architecture of this project.
+## :house: Architecture of this project.
 
 ![Project Image](project-image-url)
 
