@@ -24,7 +24,7 @@
 - [App Deployment to Tomcat](#rocket-app-deployment-to-tomcat) 
 - [Verify from browser](#earth_africa-verify-from-browser) 
 - [Resources](#page_facing_up-resources)
-- [Credit/Acknowledgment](#star2-credit-acknowledgment)
+- [Acknowledgment](#star2-acknowledgment)
 
 
 ## :beginner: About The Project
@@ -652,7 +652,7 @@ vagrant destroy
 </div>
 <br/>
 
-## :star2: Credit/Acknowledgment
+## :star2: Acknowledgment
 
 
 <br/>
