@@ -1,3 +1,4 @@
+
 - name: Common tool setup on all the servers
   hosts: appsrvgrp
   become: yes
