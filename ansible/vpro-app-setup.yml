@@ -1,4 +1,5 @@
 
+
 - name: Setup Tomcat8 & Deploy Artifact
   hosts: appsrvgrp
   become: yes
