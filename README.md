@@ -21,20 +21,19 @@
     - [Provisioning Rabbit MQ](#rabbit-Provisioning-Rabbit-MQ)
     - [Provisioning Tomcat](#cat-Provisioning-Tomcat)
     - [Provisioning Nginx](#engine-Provisioning-Nginx)
-- [App Build](#hammer_and_wrench-build)  
-- [App Deployment](#rocket-deployment) 
+- [App Deployment to Tomcat](#rocket-app-deployment-to-tomcat) 
 - [Verify from browser](#earth_africa-verify-from-browser) 
 - [Resources](#page_facing_up-resources)
 - [Credit/Acknowledgment](#star2-credit-acknowledgment)
 
 
-## :beginner:About The Project
+## :beginner: About The Project
 
-## :question:Problem that this project solves 
+## :question: Problem that this project solves 
 
-## :key:Solution to the problem.
+## :key: Solution to the problem.
 
-## :hammer:Tools
+## :hammer: Tools
 - Oracle VM Virtualbox
 - Git bash
 - visual studio code
@@ -65,7 +64,7 @@
  Get tools at [https://example.com](https://example.com)
 
 
-### :package:Clone source code
+### :package: Clone source code
 
 - clone the repository from github through the gitbash 
 `   
@@ -73,7 +72,7 @@
 git clone https://github.com/sheygildas/vprofile-project.git
    ```
    
-### :ledger:Change to the vagrant dir
+### :ledger: Change to the vagrant dir
 
 - Change to the vigrant directory source code through the gitbash. Mine is at;
 
@@ -92,7 +91,7 @@ vagrant up
 - check the VMs from Oracle VM VirtualBox Manager.
 ![Project Image](project-image-url)
 
-### :heavy_check_mark:Validate
+### :heavy_check_mark: Validate
 - validate the VMs one after the other with command vagrant ssh *<name_of_VM_given_in_Vagrantfile>* 
 
  ```sh
@@ -592,7 +591,7 @@ ls /usr/local/tomcat8/webapps/
 </div>
 <br/>
 
-## :earth_africa:Verify from browser
+## :earth_africa: Verify from browser
 
 
 - Login into *web01* (nginx) server, and run *ifconfig* to get its IP address. My case, the IP address of our web01 is : 192.168.56.11.
@@ -644,7 +643,7 @@ vagrant destroy
 </div>
 <br/>
 
-## :page_facing_up:Resources
+## :page_facing_up: Resources
 
 
 <br/>
@@ -662,13 +661,5 @@ vagrant destroy
 </div>
 <br/>
 
-#readme-t
-
-
-<br/>
-<div align="right">
-    <b><a href="#----">↥ back to top</a></b>
-</div>
-<br/>
 
 
