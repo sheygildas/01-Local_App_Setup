@@ -1,3 +1,4 @@
+
 package com.visualpathit.account.validator;
 
 import com.visualpathit.account.model.User;
