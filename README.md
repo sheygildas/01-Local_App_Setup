@@ -5,9 +5,9 @@
 ## :ledger: Index
 
 - [About The Project](#beginner-about-the-project)
-- [Problem that this project solves ](#beginner-problem-that-this-project-solves)
-- [Solution to the problem.](#beginner-solution-to-the-problem)
-- [Tools and Technologies](#beginner-tools-and-technologies)
+- [Problem that this project solves ](#question-problem-that-this-project-solves)
+- [Solution to the problem.](#key-solution-to-the-problem)
+- [Tools and Technologies](#hammer-tools-and-technologies)
 - [Architecture of this project](#beginner-architecture-of-this-project)
 - [Steps to Execute the project](#zap-steps-to-execute-the-project)
   - [Setup tools ](#electric_plug-setup-tools )
@@ -31,11 +31,11 @@
 
 ## :beginner:About The Project
 
-## :probProblem that this project solves 
+## :question:Problem that this project solves 
 
-## Solution to the problem.
+## :key:Solution to the problem.
 
-## Tools
+## :hammer:Tools
 - Oracle VM Virtualbox
 - Git bash
 - visual studio code
