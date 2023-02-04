@@ -9,24 +9,23 @@
 - [Solution to the problem.](#key-solution-to-the-problem)
 - [Tools and Technologies](#hammer-tools-and-technologies)
 - [Architecture of this project](#house-architecture-of-this-project)
-- [Steps to Execute the project](#zap-steps-to-execute-the-project)
+- [Steps to Execute the project](#electric_plug-steps-to-execute-the-project)
   - [Setup tools ](#electric_plug-setup-tools )
   - [Clone source code](#package-slone-source-code)
-  - [Go to the vagrant dir](#package-go-to-the-vagrant-dir)
+  - [Go to the vagrant dir](#ledger-go-to-the-vagrant-dir)
   - [Bring up the Virtual machines ](#bulb-bring-up-the-virtual-machines)
   - [Validate](#heavy_check_mark-validate)
-  - [Setup All the services](#package-setup-all-the-services)
+  - [Setup All the services](#zap-setup-all-the-services)
     - [Provisioning Mysql](#package-Provisioning-Mysql)
     - [Provisioning Memcached](#package-Provisioning-Memcached)
-    - [Provisioning Rabbit MQ](#package-Provisioning-Rabbit-MQ)
-    - [Provisioning Tomcat](#package-Provisioning-Tomcat)
-    - [Provisioning Nginx](#package-Provisioning-Nginx)
-- [App Build](#hammer-build)  
+    - [Provisioning Rabbit MQ](#rabbit-Provisioning-Rabbit-MQ)
+    - [Provisioning Tomcat](#cat-Provisioning-Tomcat)
+    - [Provisioning Nginx](#engine-Provisioning-Nginx)
+- [App Build](#hammer_and_wrench-build)  
 - [App Deployment](#rocket-deployment) 
-- [Verify from browser](#rocket-verify-from-browser) 
-- [Community](#cherry_blossom-community)
+- [Verify from browser](#earth_africa-verify-from-browser) 
 - [Resources](#page_facing_up-resources)
-- [Credit/Acknowledgment](#star2-creditacknowledgment)
+- [Credit/Acknowledgment](#star2-credit-acknowledgment)
 
 
 ## :beginner:About The Project
@@ -60,13 +59,13 @@
 </div>
 <br/>
 
-## Steps to Execute the project. 
+## :electric_plug: Steps to Execute the project. 
 
-### Setup tools 
+### :electric_plug: Setup tools 
  Get tools at [https://example.com](https://example.com)
 
 
-### Clone source code
+### :package:Clone source code
 
 - clone the repository from github through the gitbash 
 `   
@@ -74,7 +73,7 @@
 git clone https://github.com/sheygildas/vprofile-project.git
    ```
    
-### Change to the vagrant dir
+### :ledger:Change to the vagrant dir
 
 - Change to the vigrant directory source code through the gitbash. Mine is at;
 
@@ -124,7 +123,7 @@ logout
 </div>
 <br/> 
 
-### Setup All the services
+### :zap: Setup All the services
 - There are 6 different services for this application
  ```sh
 Services
@@ -526,7 +525,7 @@ systemctl restart nginx
 </div>
 <br/>
 
-## App Deployment to Tomcat
+## :rocket: App Deployment to Tomcat
 
 Login in to *app01* and clone our source code in the In /tmp directory.
 
@@ -593,7 +592,7 @@ ls /usr/local/tomcat8/webapps/
 </div>
 <br/>
 
-## Verify from browser
+## :earth_africa:Verify from browser
 
 
 - Login into *web01* (nginx) server, and run *ifconfig* to get its IP address. My case, the IP address of our web01 is : 192.168.56.11.
@@ -645,7 +644,7 @@ vagrant destroy
 </div>
 <br/>
 
-## Resources
+## :page_facing_up:Resources
 
 
 <br/>
@@ -654,7 +653,7 @@ vagrant destroy
 </div>
 <br/>
 
-## Credit/Acknowledgment
+## :star2: Credit/Acknowledgment
 
 
 <br/>
