@@ -20,7 +20,7 @@
     - [Provisioning Memcached](#package-provisioning-memcached)
     - [Provisioning Rabbit MQ](#rabbit-provisioning-rabbit-MQ)
     - [Provisioning Tomcat](#cat-provisioning-tomcat)
-    - [Provisioning Nginx](#engine-provisioning-nginx)
+    - [Provisioning Nginx](#earh_africa-provisioning-nginx)
 - [App Deployment to Tomcat](#rocket-app-deployment-to-tomcat) 
 - [Verify from browser](#earth_africa-verify-from-browser) 
 - [Resources](#page_facing_up-resources)
@@ -157,7 +157,7 @@ SQL Database:
 </div>
 <br/> 
 
-1. **Provisioning Mysql** <br>
+1. :package:  **Provisioning Mysql** <br>
 - Login in to the *db01* VM using th following command.
 ```sh
 vagrant ssh db01
@@ -272,7 +272,7 @@ logoutt
 </div>
 <br/>
 
-2. **Provisioning Memcached** <br>
+2. :package: **Provisioning Memcached** <br>
 - Login to memcached server, and switch to root user.
 
 ```sh
@@ -314,7 +314,7 @@ exit
 </div>
 <br/>
 
-3. **Provisioning Rabbit MQ** <br>
+3. :rabbit: **Provisioning Rabbit MQ** <br>
 
 - Login to Rabbit MQ server and switch to root user.
 
@@ -374,7 +374,7 @@ exit
 </div>
 <br/>
 
-4. **Provisioning Tomcat** <br>
+4. :cat: **Provisioning Tomcat** <br>
 
 - Login to *app01* server first, and switch to root user.
 
@@ -467,7 +467,7 @@ systemctl status tomcat
 <br/>
  
  
-5. **Provisioning Nginx** <br>
+5. :earth_africa: **Provisioning Nginx** <br>
 
 - Login to *web01* server first, and switch to root user.
 
