@@ -50,7 +50,7 @@
 
 ## :house: Architecture of this project.
 
-![architecture](https://github.com/sheygildas/Local_App_Setup/tree/local-setup/images)
+![architecture](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/architecture.jpeg)
 
 <br/>
 <div align="right">
