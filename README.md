@@ -644,8 +644,10 @@ vagrant destroy
 </div>
 <br/>
 
+
 ## :page_facing_up: Resources
 
+* [Check out  the source of this  project on Udemy](https://www.udemy.com/course/devopsprojects/)
 
 <br/>
 <div align="right">
@@ -655,6 +657,7 @@ vagrant destroy
 
 ## :star2: Acknowledgment
 
+Wish to thank Imran Teli for providing such a great [content](https://www.udemy.com/course/devopsprojects/)
 
 <br/>
 <div align="right">
