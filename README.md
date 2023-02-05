@@ -90,7 +90,7 @@ vagrant up
    
    NOTE: Bringing VMs can take long time sometimes. If VM setup stops in the middle, run *vagrant up* command again.
 - check the VMs from Oracle VM VirtualBox Manager.
-![Project Image](project-image-url)
+
 
 ### :heavy_check_mark: Validate
 - validate the VMs one after the other with command vagrant ssh *<name_of_VM_given_in_Vagrantfile>* 
