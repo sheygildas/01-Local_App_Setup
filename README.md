@@ -107,7 +107,7 @@ cat /etc/hosts
 ping app01
    ```
    
-![ping]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/ping.jpg))
+![ping](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/ping.jpg))
 
 - If you were able to connect to *app01* successfully then type *logout* on the terminal and try to ping other services similarly.
 - Lets connect to *app01* vbox and check connectivity of *app01* with *rmq01*, *db01* and *mc01*
