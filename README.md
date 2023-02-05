@@ -16,7 +16,7 @@
   - [Bring up the Virtual machines ](#bulb-bring-up-the-virtual-machines)
   - [Validate](#heavy_check_mark-validate)
   - [Setup All the services](#zap-setup-all-the-services)
-    - [Provisioning Mysql](*package-provisioning-mysql)
+    - [Provisioning Mysql](#package-provisioning-mysql)
     - [Provisioning Memcached](#package-provisioning-memcached)
     - [Provisioning Rabbit MQ](#rabbit-provisioning-rabbit-MQ)
     - [Provisioning Tomcat](#cat-provisioning-tomcat)
