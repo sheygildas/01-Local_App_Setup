@@ -620,7 +620,7 @@ ifconfig
 
 - Click on the user ID AND validate if data is coming from Database.
 
-![Memcache%20connection%202]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/Memcache%20connection%202.jpg)) 
+![Memcache%20connection%202](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/Memcache%20connection%202.jpg)) 
 
 <br/>
 <div align="right">
@@ -636,7 +636,7 @@ ifconfig
 ```sh
 vagrant destroy
    ``` 
- ![clean]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/clean.png))   
+ ![clean](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/clean.png))   
    
 <br/>
 <div align="right">
