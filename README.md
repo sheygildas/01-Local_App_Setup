@@ -106,7 +106,9 @@ cat /etc/hosts
  ```sh
 ping app01
    ```
-![Project Image](project-image-url)
+   
+![ping]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/ping.jpg))
+
 - If you were able to connect to *app01* successfully then type *logout* on the terminal and try to ping other services similarly.
 - Lets connect to *app01* vbox and check connectivity of *app01* with *rmq01*, *db01* and *mc01*
  ```sh
@@ -360,7 +362,6 @@ systemctl restart rabbitmq-server
    
 - Check the status to see whether rabbitmq server is running, if yes then exit and go to the net services.
 
-![Project Image](project-image-url)
 
 ```sh
 systemctl status rabbitmq-server
@@ -458,7 +459,6 @@ systemctl start tomcat
 systemctl status tomcat
    ```
  
-![Project Image](project-image-url)
 
 <br/>
 <div align="right">
@@ -604,23 +604,23 @@ ifconfig
 - Validate whether Nginx is running by entering *http://<IP_of_Nginx_server>* on your browser .
 
 
-![Project Image](project-image-url)
+![Nginx]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/Nginx.jpg))
 
 - Validate Db connection using credentials by entering *admin_vp* for both username and password on the login page.
 
-![Project Image](project-image-url)
+![Db%20connection]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/Db%20connection.jpg))
 
 - On the page, Click on RabbitMQ to validate the connection.
 
-![Project Image](project-image-url)
+![Rabbit%20connection]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/Rabbit%20connection.jpg))
 
 - Validate Memcache connection by clicking MemCache.
 
-![Project Image](project-image-url)
+![Memcache%20connection]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/Memcache%20connection.jpg))
 
 - Click on the user ID AND validate if data is coming from Database.
 
-![Project Image](project-image-url) 
+![Memcache%20connection%202]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/Memcache%20connection%202.jpg)) 
 
 <br/>
 <div align="right">
@@ -636,7 +636,7 @@ ifconfig
 ```sh
 vagrant destroy
    ``` 
- ![Project Image](project-image-url)   
+ ![clean]([project-image-url](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/clean.png))   
    
 <br/>
 <div align="right">
