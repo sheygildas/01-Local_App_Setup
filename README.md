@@ -65,7 +65,7 @@
 ## :house: Architecture of this project.
 
 
-![architecture](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/architecture.jpeg)
+![architecture](https://github.com/sheygildas/Local_App_Setup/blob/local-setup/images/architecture.png)
 
 <br/>
 <div align="right">
