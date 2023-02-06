@@ -52,9 +52,6 @@
 - Git bash
 - visual studio code
 - Vagrant
-- Vagrant plugins
-- vagrant plugin install vagrant-hostmanager
-- vagrant plugin install vagrant-vbguest
 
 <br/>
 <div align="right">
